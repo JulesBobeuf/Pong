@@ -50,10 +50,6 @@ Ensure you have the following installed:
 
 > ⚠️ **Note**: Currently, only Windows builds are available. Other platform builds may be added in the future.
 
-## TO DO
-
-- Implement builds for other platforms (e.g., macOS, Linux, Android, iOS)
-
 ## My Configuration
 
 - **Operating System**: Windows 11
