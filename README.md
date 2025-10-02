@@ -61,7 +61,7 @@ Ensure you have the following installed:
 
 ## Resources
 
-- [C# Masterclass by Denis Panjuta on Udemy](https://www.udemy.com/course/csharp-masterclass/)
+- [Complete C# Masterclass by Denis Panjuta on Udemy](https://www.udemy.com/course/complete-csharp-masterclass/)
 - [Unity Documentation](https://docs.unity.com/)
 
 ## License
